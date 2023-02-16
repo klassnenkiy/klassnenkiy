@@ -1,9 +1,10 @@
+<a id='link1'></a>
 Привет!
 Меня зовут Станислав Тюлягин и я Data Scientist.
 
 В репозитории [Data_Sciense_Portfolio](https://github.com/klassnenkiy/Data_Sciense_Portfolio) можно ознакомиться с моими проектами в области DS и DA.
 
-В 2022 году я закончил повышение квалификации в Яндекс.Практикуме. Сейчас осваиваю материалы курса Deep Learning School.
+В 2022 году я закончил повышение квалификации в Яндекс.Практикуме. Сейчас осваиваю материалы курса Deep Learning School и прохожу курс по Python-backend в Яндекс.Практикуме.
 Имею навыки научного и рыночного анализа, опыт работы в бизнесе. Люблю сложные задачи, умею учиться новому. Могу работать как в команде, так и в одиночку, самоогранизован, нацелен на результат, соблюдаю дедлайны и умею длительное время работать удаленно без потери результативности.
 
 Мне нравится анализировать и находить неочевидные закономерности. Планирую дальше развиваться и работать в этой области и делать мир лучше с помощью машинного обучения.
@@ -43,4 +44,4 @@
 | [CV. Определение возраста покупателей](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p14_cv) |Создание neural network модели определения возраста человека по фото.|`tensorflow` `keras` `ImageDataGenerator` `ResNet` | CV, neural network, classification|
 | [Прогнозирование оттока клиентов телеком](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_diploma_project) |Построить модель, которая предсказывает, уйдёт ли пользователь. |`Pipeline` `phik` `Catboost` `XGBoost` `sklearn`| EDA, classification|
 
-<a href="#link6"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
+<a href="#link1"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
