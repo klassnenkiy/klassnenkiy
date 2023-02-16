@@ -47,5 +47,5 @@
 <a href="#link1"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
 
 <p align="center">
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ArtyKrafty&show_icons=true&layout=compact&theme=tokyonight'/>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=klassnenkiy&show_icons=true&layout=compact&theme=tokyonight'/>
 </p>
