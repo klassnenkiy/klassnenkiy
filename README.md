@@ -45,3 +45,7 @@
 | [Прогнозирование оттока клиентов телеком](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_diploma_project) |Построить модель, которая предсказывает, уйдёт ли пользователь. |`Pipeline` `phik` `Catboost` `XGBoost` `sklearn`| EDA, classification|
 
 <a href="#link1"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
+
+<p align="center">
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ArtyKrafty&show_icons=true&layout=compact&theme=tokyonight'/>
+</p>
