@@ -42,3 +42,5 @@
 | [NLP. Классификация тональности текста](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p13_texts) |Предсказание позитивных и негативных комментариев пользователей интернет-магазина.| `numpy` `sklearn` `spacy ` `torch` `BERT` | NLP, TF-IDF, classification|
 | [CV. Определение возраста покупателей](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p14_cv) |Создание neural network модели определения возраста человека по фото.|`tensorflow` `keras` `ImageDataGenerator` `ResNet` | CV, neural network, classification|
 | [Прогнозирование оттока клиентов телеком](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_diploma_project) |Построить модель, которая предсказывает, уйдёт ли пользователь. |`Pipeline` `phik` `Catboost` `XGBoost` `sklearn`| EDA, classification|
+
+<a href="#link6"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
