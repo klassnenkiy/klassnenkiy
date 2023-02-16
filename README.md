@@ -1,5 +1,6 @@
 Привет!
 Меня зовут Станислав Тюлягин и я Data Scientist.
+
 В репозитории [Data_Sciense_Portfolio](https://github.com/klassnenkiy/Data_Sciense_Portfolio) можно ознакомиться с моими проектами в области DS и DA.
 
 В 2022 году я закончил повышение квалификации в Яндекс.Практикуме. Сейчас осваиваю материалы курса Deep Learning School.
@@ -12,8 +13,8 @@
 - Telegram: https://t.me/tyulyagins
 - E-mail: klassnenkiy@gmail.com
 
-
-[Сертификаты](https://github.com/klassnenkiy/Certificates)
+- [Резюме](https://github.com/klassnenkiy/klassnenkiy/blob/main/Tyulyagin_Stanislav_Resume_ru.pdf) ([en](https://github.com/klassnenkiy/klassnenkiy/blob/main/Tyulyagin_Stanislav_Resume.pdf))
+- [Сертификаты](https://github.com/klassnenkiy/Certificates)
 
 # Проекты Data Analyst
 
