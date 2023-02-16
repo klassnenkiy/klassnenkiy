@@ -1,4 +1,5 @@
 <a id='link1'></a>
+![](https://komarev.com/ghpvc/?username=klassnenkiy&style=plastic&label=profile+views&color=orange)
 Привет!
 Меня зовут Станислав Тюлягин и я Data Scientist.
 
