@@ -9,12 +9,12 @@
 Мне нравится анализировать и находить неочевидные закономерности. Планирую дальше развиваться и работать в этой области и делать мир лучше с помощью машинного обучения.
 В настоящий момент ищу работу.
 
+- [Резюме](https://github.com/klassnenkiy/klassnenkiy/blob/main/Tyulyagin_Stanislav_Resume_ru.pdf) ([en](https://github.com/klassnenkiy/klassnenkiy/blob/main/Tyulyagin_Stanislav_Resume.pdf))
+- [Сертификаты](https://github.com/klassnenkiy/Certificates)
+
 Контакты
 - Telegram: https://t.me/tyulyagins
 - E-mail: klassnenkiy@gmail.com
-
-- [Резюме](https://github.com/klassnenkiy/klassnenkiy/blob/main/Tyulyagin_Stanislav_Resume_ru.pdf) ([en](https://github.com/klassnenkiy/klassnenkiy/blob/main/Tyulyagin_Stanislav_Resume.pdf))
-- [Сертификаты](https://github.com/klassnenkiy/Certificates)
 
 # Проекты Data Analyst
 
