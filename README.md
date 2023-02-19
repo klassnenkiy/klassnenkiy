@@ -70,4 +70,4 @@
 </p>
 
 
-<a href="#link1"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
+<a href="#"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
