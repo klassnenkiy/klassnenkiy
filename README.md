@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=klassnenkiy&style=plastic&label=profile+views&color=orange)
 
 Привет!
-Меня зовут Станислав Тюлягин и я Data Scientist.
+Меня зовут Станислав Тюлягин и я Data Scientist, а также Python Developer.
 
 В репозитории [Data_Sciense_Portfolio](https://github.com/klassnenkiy/Data_Sciense_Portfolio) можно ознакомиться с моими проектами в области DS и DA.
 
