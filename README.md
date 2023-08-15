@@ -65,8 +65,5 @@
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-<p align="center">
-<a href="https://github.com/klassnenkiy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klassnenkiy&layout=compact&theme=buefy&hide_border=true" /></a>
-</p>
 
 <a href="#"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
