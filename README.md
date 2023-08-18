@@ -5,7 +5,7 @@
 Меня зовут Станислав Тюлягин, я Data Scientist и Python Developer.
 
 В репозитории [Data_Sciense_Portfolio](https://github.com/klassnenkiy/Data_Sciense_Portfolio) можно ознакомиться с моими проектами в области DS и DA.
-А в списке [Python-developer](https://github.com/stars/klassnenkiy/lists/python-developer) можно найти и рассмотреть детеальнее мои проекты разработки на Python.
+А в списке [Python-developer](https://github.com/stars/klassnenkiy/lists/python-developer) можно найти и детальнее рассмотреть мои проекты разработки на Python.
 
 В 2022 году я закончил курс Data Scientist в Яндекс.Практикуме, а также освоил материалы курса Deep Learning School от МФТИ. В июле 2023 года завершил курс по Python-backend в Яндекс.Практикуме.
 Имею навыки научного и рыночного анализа, опыт работы в бизнесе, создания небольших веб приложений. Люблю сложные задачи, умею учиться новому. Могу работать как в команде, так и в одиночку, самоогранизован, нацелен на результат, соблюдаю дедлайны и умею длительное время работать удаленно без потери результативности.
