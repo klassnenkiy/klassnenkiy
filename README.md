@@ -20,6 +20,22 @@
 - Telegram: https://t.me/tyulyagins
 - E-mail: klassnenkiy@gmail.com
 
+# Проекты Python Developer
+
+* [Foodgram - web 2.0 приложение для публикации кулинарных рецептов](https://github.com/klassnenkiy/foodgram-project-react)
+
+* [Проект YaMDb - собирает отзывы пользователей на различные произведения, кино, музыку](https://github.com/klassnenkiy/api_yamdb)
+
+* [Kittygram - социальная сеть, для любителей кошек](https://github.com/klassnenkiy/kittygram_final)
+
+* [Yatube - социальная сеть](https://github.com/klassnenkiy/hw05_final)
+
+* [Rest-api для Yatube](https://github.com/klassnenkiy/api_final_yatube)
+
+* [Telegram bot](https://github.com/klassnenkiy/homework_bot)
+
+* [Taski docker - Приложение для планирования своих задач](https://github.com/klassnenkiy/taski-docker)
+
 # Проекты Data Analyst
 
 | **Название** | **Описание** | **Инструменты** |  **Ключевые слова**  |
