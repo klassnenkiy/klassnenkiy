@@ -1,69 +1,64 @@
 <a id='link1'></a>
 ![](https://komarev.com/ghpvc/?username=klassnenkiy&style=plastic&label=profile+views&color=orange)
 
-Привет!
-Меня зовут Станислав Тюлягин, я Data Scientist и Python Developer.
+Hello!  
+My name is Stanislav Tyulyagin, I am a Data Scientist and Python Developer.
 
-В репозитории [Data_Sciense_Portfolio](https://github.com/klassnenkiy/Data_Sciense_Portfolio) можно ознакомиться с моими проектами в области DS и DA.
-А в списке [Python-developer](https://github.com/stars/klassnenkiy/lists/python-developer) можно найти и детальнее рассмотреть мои проекты разработки на Python.
+In the [Data_Sciense_Portfolio](https://github.com/klassnenkiy/Data_Sciense_Portfolio) repository, you can explore my projects in the fields of DS and DA.  
+In the [Python-developer](https://github.com/stars/klassnenkiy/lists/python-developer) list, you can find and examine my Python development projects in more detail.
 
-В 2022 году я закончил курс Data Scientist в Яндекс.Практикуме, а также освоил материалы курса Deep Learning School от МФТИ. В июле 2023 года завершил курс по Python-backend в Яндекс.Практикуме. Люблю сложные задачи, умею учиться новому. Могу работать как в команде, так и в одиночку, самоогранизован, нацелен на результат, соблюдаю дедлайны и умею длительное время работать удаленно без потери результативности.
+In 2022, I completed the Data Scientist course at Yandex.Practicum, as well as the Deep Learning School course from MIPT. In July 2023, I finished the Python-backend course at Yandex.Practicum. I enjoy challenging tasks, am eager to learn new things, and can work both in a team and independently. I am self-organized, goal-oriented, meet deadlines, and can work remotely for extended periods without compromising productivity.
 
-Мне нравится анализировать и находить неочевидные закономерности. Планирую дальше развиваться и работать в этой области и делать мир лучше с помощью машинного обучения и Python разработки.
-В настоящий момент активно ищу работу и рассматриваю предложения.
+I enjoy analyzing and finding non-obvious patterns. I plan to continue developing and working in this field to make the world better through machine learning and Python development.  
+Currently, I am actively looking for a job and considering offers.
 
-- [Резюме](https://github.com/klassnenkiy/klassnenkiy/blob/main/Tyulyagin_Stanislav_Resume_ru.pdf) ([en](https://github.com/klassnenkiy/klassnenkiy/blob/main/Tyulyagin_Stanislav_Resume.pdf))
-- [Сертификаты](https://github.com/klassnenkiy/Certificates)
+- [Resume](https://github.com/klassnenkiy/klassnenkiy/blob/main/Tyulyagin_Stanislav_Resume_ru.pdf) ([en](https://github.com/klassnenkiy/klassnenkiy/blob/main/Tyulyagin_Stanislav_Resume.pdf))
+- [Certificates](https://github.com/klassnenkiy/Certificates)
 
-Контакты
-- Telegram: https://t.me/tyulyagins
-- E-mail: klassnenkiy@gmail.com
+Contacts  
+- Telegram: https://t.me/tyulyagins  
+- E-mail: klassnenkiy@gmail.com  
 
-# Проекты Python Developer
+# Python Developer Projects
 
-* [Foodgram - web 2.0 приложение для публикации кулинарных рецептов](https://github.com/klassnenkiy/foodgram-project-react)
+* [Foodgram - web 2.0 app for publishing cooking recipes](https://github.com/klassnenkiy/foodgram-project-react)
 
-* [Проект YaMDb - собирает отзывы пользователей на различные произведения, кино, музыку](https://github.com/klassnenkiy/api_yamdb)
+* [YaMDb project - collects user reviews on various works, movies, and music](https://github.com/klassnenkiy/api_yamdb)
 
-* [Kittygram - социальная сеть, для любителей кошек](https://github.com/klassnenkiy/kittygram_final)
+* [Kittygram - social network for cat lovers](https://github.com/klassnenkiy/kittygram_final)
 
-* [Yatube - социальная сеть](https://github.com/klassnenkiy/hw05_final)
+* [Yatube - social network](https://github.com/klassnenkiy/hw05_final)
 
-* [Rest-api для Yatube](https://github.com/klassnenkiy/api_final_yatube)
+* [Rest-api for Yatube](https://github.com/klassnenkiy/api_final_yatube)
 
 * [Telegram bot](https://github.com/klassnenkiy/homework_bot)
 
-* [Taski docker - Приложение для планирования своих задач](https://github.com/klassnenkiy/taski-docker)
+* [Taski docker - app for planning tasks](https://github.com/klassnenkiy/taski-docker)
 
-# Проекты Data Analyst
+# Data Analyst Projects
 
-| **Название** | **Описание** | **Инструменты** |  **Ключевые слова**  |
+| **Title** | **Description** | **Tools** |  **Keywords**  |
 | :------------------- | :---------------------- | :---------------------- | :------ |
-| [Сравнение музыкальных предпочтений](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p1_yandex_music) |  Сравнение музыкальных предпочтений жителей Москвы и Санкт-Петербурга на основе данных Яндекс.Музыки. | `numpy` `pandas` | EDA, analysis |
-| [Исследование надёжности заёмщиков банка](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p2_data_preprocessing) | Обработка и исследование данных для выявления зависимостей на влияющих на платёжеспособность клииента банка. | `pandas` `numpy` `matplotlib` | EDA, analysis |
-| [Исследование рынка недвижимости](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p3_real_estate) |  Исследование данных и выявление факторов, оказывающих влияние на цену квартиры. | `numpy` `pandas` `matplotlib` | EDA, analysis, feature engineering |
-| [Определение выгодного тарифа для телеком компании](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p6_telecom) | Определение выгодного тарифа на основании данных о использовании услуг клиентами. Проанализированы данные и проверены гипотезы. | `numpy` `pandas` `matplotlib`  `scipy` | EDA, analysis, hypotesys testing, ttest |
-| [Анализ рынка компьютерных игр](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p5_games) | Определение фактор, влияющих на успешность продажи игры. | `pandas` `matplotlib` `scipy` | EDA, statistics, hypotesys testing, ttest |
+| [Comparison of music preferences](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p1_yandex_music) | Comparison of music preferences between Moscow and St. Petersburg residents based on Yandex.Music data. | `numpy` `pandas` | EDA, analysis |
+| [Bank loan reliability analysis](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p2_data_preprocessing) | Data processing and analysis to identify factors influencing a bank client’s solvency. | `pandas` `numpy` `matplotlib` | EDA, analysis |
+| [Real estate market analysis](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p3_real_estate) | Analyzing data and identifying factors affecting apartment prices. | `numpy` `pandas` `matplotlib` | EDA, analysis, feature engineering |
+| [Telecom tariff profitability analysis](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p6_telecom) | Determining the most profitable telecom tariff based on customer usage data. Hypotheses were tested. | `numpy` `pandas` `matplotlib`  `scipy` | EDA, analysis, hypothesis testing, ttest |
+| [Video game market analysis](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p5_games) | Determining the factors influencing the successful sale of a game. | `pandas` `matplotlib` `scipy` | EDA, statistics, hypothesis testing, ttest |
 
+# Data Science Projects
 
-
-# Проекты Data Science 
- 
-| Название | Описание | Инструменты |  Ключевые слова  |
+| Title | Description | Tools |  Keywords  |
 | :------------------- | :---------------------- | :---------------------- | :------ |
-| [Рекомендация сотового тарифа](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p4_stat_analysis) | Создание модели для задачи классификации, которая выберет подходящий тариф сотового оператора. | `pandas` `matplotlib` `sklearn`  `statsmodels` | Time Series, regression, classification |
-| [Прогнозирование оттока клиентов банка](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p7_bank_churn) | Создание модели для предсказания оттока клиентов из банка на основании данных о поведении клиентов. Целью является снижение затрат на сохранение клиентов. | `numpy` `pandas` `matplotlib` `sklearn` `StandardScaler` | EDA, analysis, feature engineering, ROC-AUC, upsampling, unbalanced classification |
-| [Прогнозирование прибыли от нефтяных скважин](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p8_oil_rigs) | Создание модели для прогноза прибыли от нефтяных скважин. На основании прогноза определение лучшего региона для бурения | `numpy` `pandas` `matplotlib` `sklearn` | EDA, analysis, regression, ROC-AUC|
-| [Прогнозирование концентрации золота из золотосодержащей руды](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p9_gold) | Создание модели для прогноза коэффициента восстановления золота из золотосодержащей руды | `pandas` `matplotlib` `sklearn` `CatBoost` `Optuna` `GridSearch` | EDA, regression,  gradient boosting|
-| [Защита персональных данных клиентов страховой компании](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p10_insurance) | Необходимо защитить персональные данные клиентов страховой компании. Разработать метод преобразования данных, чтобы по ним было тяжело восстановить исходную информацию и при этом не менялось качество линейной регрессии. | `pandas` `numpy` `Random` `numpy`  | EDA, regression|
-| [Построение модели определения стоимости автомобиля](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p11_car_prices) | Разработка системы рекомендации стоимости автомобиля на основе его описания | `pandas` `matplotlib` `sklearn` `lightgbm` | EDA, regression, gradient boosting|
-| [Прогнозирование количества заказов такси](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p12_time_series) | Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. Необходимо построить модель для такого предсказания.| `pandas` `matplotlib` `CatBoost` `Prophet`  | Time Series, regression, gradient boosting|
-| [NLP. Классификация тональности текста](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p13_texts) |Предсказание позитивных и негативных комментариев пользователей интернет-магазина.| `numpy` `sklearn` `spacy ` `torch` `BERT` | NLP, TF-IDF, classification|
-| [CV. Определение возраста покупателей](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p14_cv) |Создание neural network модели определения возраста человека по фото.|`tensorflow` `keras` `ImageDataGenerator` `ResNet` | CV, neural network, classification|
-| [Прогнозирование оттока клиентов телеком](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_diploma_project) |Построить модель, которая предсказывает, уйдёт ли пользователь. |`Pipeline` `phik` `Catboost` `XGBoost` `sklearn`| EDA, classification|
-
-
-
+| [Mobile tariff recommendation](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p4_stat_analysis) | Creating a classification model to recommend the appropriate mobile operator tariff. | `pandas` `matplotlib` `sklearn`  `statsmodels` | Time Series, regression, classification |
+| [Bank customer churn prediction](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p7_bank_churn) | Building a model to predict customer churn based on client behavior data. The goal is to reduce costs on client retention. | `numpy` `pandas` `matplotlib` `sklearn` `StandardScaler` | EDA, analysis, feature engineering, ROC-AUC, upsampling, unbalanced classification |
+| [Oil rig profit prediction](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p8_oil_rigs) | Creating a model to predict the profit from oil rigs. Based on the forecast, determining the best drilling region. | `numpy` `pandas` `matplotlib` `sklearn` | EDA, analysis, regression, ROC-AUC |
+| [Gold recovery prediction from ore](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p9_gold) | Creating a model to predict the gold recovery coefficient from gold-containing ore. | `pandas` `matplotlib` `sklearn` `CatBoost` `Optuna` `GridSearch` | EDA, regression, gradient boosting |
+| [Protecting personal data of an insurance company's clients](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p10_insurance) | Protecting personal data of insurance clients. Developing a method to transform data so that the original information is hard to recover while maintaining the quality of linear regression. | `pandas` `numpy` `Random` `numpy`  | EDA, regression |
+| [Car price prediction model](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p11_car_prices) | Creating a recommendation system for car pricing based on its description. | `pandas` `matplotlib` `sklearn` `lightgbm` | EDA, regression, gradient boosting |
+| [Taxi order prediction](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p12_time_series) | Predicting the number of taxi orders for the next hour to attract more drivers during peak times. | `pandas` `matplotlib` `CatBoost` `Prophet`  | Time Series, regression, gradient boosting |
+| [NLP. Sentiment analysis of text](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p13_texts) | Predicting positive and negative comments from online store users. | `numpy` `sklearn` `spacy` `torch` `BERT` | NLP, TF-IDF, classification |
+| [CV. Customer age prediction](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_p14_cv) | Creating a neural network model to predict a person's age based on a photo. | `tensorflow` `keras` `ImageDataGenerator` `ResNet` | CV, neural network, classification |
+| [Telecom churn prediction](https://github.com/klassnenkiy/Data_Sciense_Portfolio/tree/main/DS_diploma_project) | Building a model to predict whether a user will leave a telecom service. | `Pipeline` `phik` `Catboost` `XGBoost` `sklearn` | EDA, classification |
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -82,4 +77,4 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<a href="#"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
+<a href="#"><img src='https://img.shields.io/badge/Back_to_top-&#x21A9-blue'></a>
