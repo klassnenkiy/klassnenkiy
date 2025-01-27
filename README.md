@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=klassnenkiy&style=plastic&label=profile+views&color=orange)
 
 Hello!  
-My name is Stanislav Tyulyagin, I am a Data Scientist and Python Developer. AI master's student at HSE '26.
+My name is Stanislav Tyulyagin, I am a ML Engineer and Python Developer. AI master's student at HSE '26.
 
 In the [Data_Sciense_Portfolio](https://github.com/klassnenkiy/Data_Sciense_Portfolio) repository, you can explore my projects in the fields of DS and DA.  
 In the [Python-developer](https://github.com/stars/klassnenkiy/lists/python-developer) list, you can find and examine my Python development projects in more detail.
